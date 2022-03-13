@@ -1,6 +1,6 @@
-# 🚧This Repo is no longer mainained🚧
+# Forked for Dreame D9 / Trouver Finder changes
 
-I have flashed my 1C with Valetudo, and suggest you do the same 🙂
+Original https://github.com/Concentricc/xiaomi_vacuum
 
 # xiaomi_vacuum
 custom component for Vacuum 1C STYTJ01ZHM (dreame.vacuum.mc1808).
